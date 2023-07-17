@@ -6,8 +6,8 @@ me considero como DevOps
 
 Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedinhos universitários. A maioria dos projetos que trabalho são internos corporativos e não são públicos
 
-*   🌍 Estou baseado em São Paulo
-*   ✉️ Você pode entrar em contato comigo em [arceger@hotmail.com](mailto:arceger@hotmail.com)
+*   🌍 Minha base é São Paulo
+*   ✉️ Mas você pode entrar em contato comigo em [arceger@hotmail.com](mailto:arceger@hotmail.com)
 *   🚀 No momento, estou trabalhando com [Spring boot](https://github.com/arceger/springmailgoogle)
 *   ### Domino as seguintes linguagens e frameworks
 <p align="left">
