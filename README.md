@@ -10,7 +10,7 @@ Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedi
 *   ✉️ Mas você pode entrar em contato comigo em [arceger@hotmail.com](mailto:arceger@hotmail.com)
 *   🚀 No momento, estou trabalhando com [Spring boot](https://github.com/arceger/springmailgoogle)
 *   ### Domino as seguintes linguagens e frameworks
-<p align="center">
+<p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -24,6 +24,7 @@ Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedi
 ### Ou se quiser saber um pouco mais, acesse meu linkedin
                   
                   
-<p align="center">
+<p align="left">
     
-<a href="https://www.linkedin.com/in/gerson-arce-00a47279/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/gerson-arce-00a47279/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
