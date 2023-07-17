@@ -1,7 +1,7 @@
-Ola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Gerson Arce
+Ola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me chamo: Gerson Arce
 ===================================================================================================================================
 
-me considero como DevOpsSec
+E me considero como DevOpsSec
 ------------------------
 
 Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedinhos universitários. A maioria dos projetos que trabalho são internos corporativos e não são públicos
