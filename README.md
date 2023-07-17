@@ -1,7 +1,7 @@
 Ola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Gerson Arce
 ===================================================================================================================================
 
-me considero como DevOps
+me considero como DevOpsSec
 ------------------------
 
 Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedinhos universitários. A maioria dos projetos que trabalho são internos corporativos e não são públicos
@@ -21,11 +21,9 @@ Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedi
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
                     
-### Se preferir me encontre nas redes sociais
+### Ou se quiser saber um pouco mais, acesse o linkedin
                   
                   
 <p align="left">
-                          
-<a href="https://www.github.com/arceger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     
 <a href="https://www.linkedin.com/in/gerson-arce-00a47279/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
