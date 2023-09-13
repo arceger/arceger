@@ -1,4 +1,4 @@
-Ola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me chamo: Gerson Arce
+Ola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu Nome é Gerson
 ===================================================================================================================================
 
 E me considero como DevOpsSec
@@ -6,7 +6,7 @@ E me considero como DevOpsSec
 
 Aqui alguns experimentos de códigos, testes de laboratórios e alguns brinquedinhos universitários. A maioria dos projetos que trabalho são internos corporativos e não são públicos
 
-*   🌍 Minha base é São Paulo
+*   🌍 Minha base agora é Lisboa Portugal
 *   ✉️ Mas você pode entrar em contato comigo em [arceger@hotmail.com](mailto:arceger@hotmail.com)
 *   🚀 No momento, estou trabalhando com [Spring boot](https://github.com/arceger/springmailgoogle)
 *   ### Domino as seguintes linguagens e frameworks
